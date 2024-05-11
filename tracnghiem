@@ -1,0 +1,19 @@
+# câu 1
+# Lưu trữ nhiều phần tử
+# Có thể lưu trữ các kiểu dữ liệu khác nhau
+# Có thể truy cập các phần tử bằng chỉ số
+# Có thể thay đổi giá trị của các phần tử
+# Hỗ trợ các phép toán và phương thức tương tự nhau
+
+# câu 2
+# employee = ('Jane', 22, 'Engineer')  
+# employee = list(employee)  
+# employee[1] = 23  
+# employee = tuple(employee)  
+# print(employee)
+
+# câu 3: B
+
+# câu 4: B
+
+# câu 5: C
